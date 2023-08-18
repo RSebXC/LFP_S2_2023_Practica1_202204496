@@ -63,8 +63,11 @@ def main():
         opcion = input("Selecciona una opción: ")
 
         if opcion == '1':
-            inventario.cargar_inventario("archivo.inv")
+            print('Ingrese el nombre del archivo inicial de inventario')
+            archivo = input()
+            inventario.cargar_inventario(archivo)
         elif opcion == '2':
+            print('Ingrese el nombre del archivo de movimientos')
             archivo_mov = input()
             with open(archivo_mov, 'r') as f:
                 for line in f:
