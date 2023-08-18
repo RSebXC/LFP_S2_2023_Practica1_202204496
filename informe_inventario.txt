@@ -1,0 +1,16 @@
+Producto	Cantidad	Precio Unitario	Valor Total	Ubicación
+Manzanas	150	2.5	375.0	BodegaA
+Peras	30	3.0	90.0	BodegaB
+Platanos	75	1.75	131.25	BodegaC
+Manzanas	100	2.5	250.0	BodegaA
+Peras	50	3.0	150.0	BodegaB
+Platanos	75	1.75	131.25	BodegaC
+Manzanas	100	2.5	250.0	BodegaA
+Peras	50	3.0	150.0	BodegaB
+Platanos	75	1.75	131.25	BodegaC
+Manzanas	100	2.5	250.0	BodegaA
+Peras	50	3.0	150.0	BodegaB
+Platanos	75	1.75	131.25	BodegaC
+Manzanas	100	2.5	250.0	BodegaA
+Peras	50	3.0	150.0	BodegaB
+Platanos	75	1.75	131.25	BodegaC
